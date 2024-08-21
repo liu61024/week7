@@ -264,3 +264,7 @@ h3{
 	text-align: center;
 	padding: 40px 0;
 }
+
+.overflow-hidden{
+	overflow: hidden;
+}
